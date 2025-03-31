@@ -8,7 +8,7 @@
 // this program draws a rocketship that can scale with the constant SIZE
 
 public class DrawRocket {
-   public static final int SIZE = 4; // change this to scale the rocketship 
+   public static final int SIZE = 3; // change this to scale the rocketship 
 
    public static void main(String[] args) {
       drawRocket();
