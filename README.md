@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my work and links to
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| ♨️ [UW CS142](https://github.com/etaagen?tab=repositories) | Java, jGRASP | Fill in :) |
+| ♨️ [UW CS142](https://github.com/etaagen/UW-CS142/blob/main/README.md) | Java, jGRASP | Fill in :) |
 
 ***
 
