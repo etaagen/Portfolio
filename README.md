@@ -18,71 +18,71 @@ Welcome to my data portfolio! Here, I document a summary of my work and links to
 
 ## Data Engineering
 
-| Project Link | Date | Tools | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|---|
-| ♨️ [UW CS142](https://github.com/etaagen?tab=repositories) | Spring 2025 | Java, jGRASP | Fill in :) |
+| ♨️ [UW CS142](https://github.com/etaagen?tab=repositories) | Java, jGRASP | Fill in :) |
 
 ***
 
 ## SQL   
 
-| Project Link | Date | Tools | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|---|
-| ⏳ [pending](https://github.com/etaagen?tab=repositories) | Spring 2025 | SQL, BigQuery | Fill in :) |
+| ⏳ [pending](https://github.com/etaagen?tab=repositories) | SQL, BigQuery | Fill in :) |
 
 ***
 
 ## Documentation   
 
-| Project Link | Date | Tools | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|---|
-| 🙋‍♀️ [Personal Website](https://github.com/etaagen/etaagen.github.io) | 2021 | Git/GitHub Pages | Fill in :) |
-| ☁️ [Reproducible analysis - gene expression](https://github.com/etaagen/Taagen_2021_TPG/blob/main/supplementary_4/script_S4.md) | 2021 | HCP | Fill in :) 
+| 🤓 [My PhD Research Website](https://github.com/etaagen/etaagen.github.io) | Git/GitHub Pages | Fill in :) |
+| 📓 [Reproducible analysis - gene expression](https://github.com/etaagen/Taagen_2021_TPG/blob/main/supplementary_4/script_S4.md) | 2021 | HCP | Fill in :) 
 
 ***
 
 ## Data Analysis with Python  
 
-| Project Link | Date | Tools | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|---|
-| 🧊 [Penguin Populations](https://github.com/etaagen?tab=repositories) | Spring 2025 | Python, Visual Studio Code | Fill in :) |
+| 🧊 [Penguin Populations](https://github.com/etaagen?tab=repositories) | Python, Visual Studio Code | Fill in :) |
 
 ***
 
 ## Experimentation   
 
-| Project Link | Date | Tools | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|---|
-| 🧬 [Publication 1](https://github.com/etaagen/Taagen_2021_TPG/blob/main/README.md) | 2021 | R, Linux | Fill in :) - note AB testing |
+| 🧬 [Publication 1](https://github.com/etaagen/Taagen_2021_TPG/blob/main/README.md) | R, Linux | Fill in :) - note AB testing |
 
 ***
 
 ## Machine Learning 
 
-| Project Link | Date | Tools | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|---|
-| ⏳ [pending](https://github.com/etaagen?tab=repositories) | Spring 2025 | sklearn | Fill in :) |
+| ⏳ [pending](https://github.com/etaagen?tab=repositories) | sklearn | Fill in :) |
 
 ***
 
 ## Predictive Modeling   
 
-| Project Link | Date | Tools | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|---|
-| 🎯 [Publication 2](https://github.com/etaagen/dissertation_chapter_4/blob/main/README.md) | 2022 | custom functions, R, Linux | Fill in :) - note modeling and simulations |  
+| 🎯 [Publication 2](https://github.com/etaagen/dissertation_chapter_4/blob/main/README.md) | custom functions, R, Linux | Fill in :) - note modeling and simulations |  
 
 ***
 
 ## Data Visualization   
 
-| Project Link | Date | Tools | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|---|
-| ⏳ [pending](https://github.com/etaagen?tab=repositories) | 2022 | ggplot | Fill in :) |  
+| ⏳ [pending](https://github.com/etaagen?tab=repositories) | ggplot | Fill in :) |  
 
 ***
 
 ## Dashboards 
 
-| Project Link | Date | Tools | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|---|
-| ⏳ [pending](https://github.com/etaagen?tab=repositories) | Spring 2025 | Shiny | Fill in :) |
+| ⏳ [pending](https://github.com/etaagen?tab=repositories) | Shiny | Fill in :) |
