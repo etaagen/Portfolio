@@ -45,7 +45,7 @@ Welcome to my data portfolio! Here, I document a summary of my work and links to
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🧊 [Penguin Populations](https://github.com/etaagen/python-projects/blob/main/penguinProject.ipynb) | Python, Visual Studio Code | Fill in :) |
+| 🧊 [Penguins from `seaborn`](https://github.com/etaagen/python-projects/blob/main/penguinProject.ipynb) | Python, Jupyter Notebook, Visual Studio Code | Fill in :) |
 
 ***
 
