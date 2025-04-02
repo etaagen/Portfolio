@@ -42,10 +42,11 @@ Welcome to my data portfolio! Here, I document a summary of my work and links to
 ***
 
 ## Data Analysis with Python  
+*Tools: Python libraries: pandas, numpy, scipy.stats, matplotlib, seaborn; Jupyter Notebook; Visual Studio Code*  
 
-| Project Link | Tools | Project Description | 
-|---|---|---|
-| 🧊 [Penguins from `seaborn`](https://github.com/etaagen/python-projects/blob/main/penguinProject.ipynb) | Python libraries: pandas, numpy, scipy.stats, matplotlib, seaborn; Jupyter Notebook; Visual Studio Code | Programmed some reusable functions for data wrangling, exploratory data analysis, visualizations, and statsitical analysis to identify the cutest penguin. |
+| Project Link | Project Description | 
+|---|---|
+| 🧊 [Penguins from `seaborn`](https://github.com/etaagen/python-projects/blob/main/penguinProject.ipynb) | Programmed some reusable functions for data wrangling, exploratory data analysis, visualizations, and statsitical analysis to identify the cutest penguin. |
 
 ***
 
