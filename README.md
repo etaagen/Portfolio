@@ -37,7 +37,7 @@ Welcome to my data portfolio! Here, I document a summary of my work and links to
 | Project Link | Tools | Project Description | Outcome Link |
 |---|---|---|---|
 | 🤓 [My PhD Research](https://github.com/etaagen/etaagen.github.io) | Git/GitHub Pages | Fill in :) | [website](https://etaagen.github.io) |
-| 📓 [Reproducible analysis - gene expression](https://github.com/etaagen/Taagen_2021_TPG/blob/main/supplementary_4/script_S4.md) | HCP | Fill in :) | [publication](https://doi.org/10.1002/tpg2.20106) |
+| 📓 [Reproducible analysis - gene expression](https://github.com/etaagen/Taagen_2021_TPG/blob/main/supplementary_4/script_S4.md) | HPC | Fill in :) | [publication](https://doi.org/10.1002/tpg2.20106) |
 
 ***
 
@@ -45,7 +45,7 @@ Welcome to my data portfolio! Here, I document a summary of my work and links to
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🧊 [Penguins from `seaborn`](https://github.com/etaagen/python-projects/blob/main/penguinProject.ipynb) | Python, Jupyter Notebook, Visual Studio Code | Fill in :) |
+| 🧊 [Penguins from `seaborn`](https://github.com/etaagen/python-projects/blob/main/penguinProject.ipynb) | Python libraries: pandas, numpy, scipy.stats, matplotlib, seaborn; Jupyter Notebook; Visual Studio Code | Programmed some reusable functions for data wrangling, exploratory data analysis, visualizations, and statsitical analysis to identify the cutest penguin. |
 
 ***
 
