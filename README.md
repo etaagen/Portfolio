@@ -47,7 +47,7 @@ Welcome to my data portfolio! Here, I document a summary of my work and links to
 | Project Link | Project Description | 
 |---|---|
 | 🧊 [Penguins from `seaborn`](https://github.com/etaagen/python-projects/blob/main/penguinProject.ipynb) | Programmed some reusable functions for data wrangling, exploratory data analysis, visualizations, and statsitical analysis to identify the cutest penguin. |
-| 💊 [Health survey via Kaggle](https://github.com/etaagen/python-projects/blob/main/healthSurveyProject.ipynb) | Probability & statistics with [National Health and Nutrition Examination Survey](https://www.kaggle.com/datasets/cdc/national-health-and-nutrition-examination-survey).|
+| 💊 [Health survey via Kaggle](https://github.com/etaagen/python-projects/blob/main/healthSurveyProject.ipynb) | Querried the [National Health and Nutrition Examination Survey](https://www.kaggle.com/datasets/cdc/national-health-and-nutrition-examination-survey) with my customizable Kaggle API function.|
 
 ***
 
