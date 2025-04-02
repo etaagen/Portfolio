@@ -34,10 +34,10 @@ Welcome to my data portfolio! Here, I document a summary of my work and links to
 
 ## Documentation   
 
-| Project Link | Tools | Project Description | Website Link |
+| Project Link | Tools | Project Description | Outcome Link |
 |---|---|---|---|
 | 🤓 [My PhD Research](https://github.com/etaagen/etaagen.github.io) | Git/GitHub Pages | Fill in :) | [website](https://etaagen.github.io) |
-| 📓 [Reproducible analysis - gene expression](https://github.com/etaagen/Taagen_2021_TPG/blob/main/supplementary_4/script_S4.md) | HCP | Fill in :) | 
+| 📓 [Reproducible analysis - gene expression](https://github.com/etaagen/Taagen_2021_TPG/blob/main/supplementary_4/script_S4.md) | HCP | Fill in :) | [publication](https://doi.org/10.1002/tpg2.20106) |
 
 ***
 
